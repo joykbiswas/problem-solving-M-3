@@ -10,6 +10,7 @@
 // console.log(counter(2));
 // console.log(counter(3));
 
+// Stateful
 const counter = {
 
     count:0,
